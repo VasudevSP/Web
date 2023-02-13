@@ -309,9 +309,3 @@ hr{
         height: 4541px;
     }
 } 
-@media(max-width:1376px){
-    body{
-        width: 1312px;
-        height: 4541px;
-    }
-} 
