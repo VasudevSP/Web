@@ -303,7 +303,7 @@ hr{
 .a:hover{
     color: brown;
 }
-@media(max-width:1376px){
+@media(max-width:1200px){
     body{
         width: 1312px;
         height: 4541px;
